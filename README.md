@@ -60,9 +60,7 @@ This project simulates a real-world FinTech loan risk system used in:
 
 ---
 
-## 📷 Application Preview
 
-(Add screenshot here)
 
 ---
 
@@ -71,4 +69,5 @@ This project simulates a real-world FinTech loan risk system used in:
 - Class imbalance handling
 - Explainable AI (SHAP)
 - Cloud deployment
+
 - REST API backend
